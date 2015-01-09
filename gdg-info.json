@@ -1,11 +1,11 @@
 {
-"siteUrl": "http://www.meugdg.com",
-"title": "GDG (chapter)",
+"siteUrl": "http://gdgaracaju.github.io/gdg-site-boilerplate",
+"title": "GDG Aracaju",
 "logoUrl": "img/logo_default.png",
 "backgroundUrl": "img/background_default.png",
-"subtitle": "Bem-vindo ao Grupo de Desenvolvedores Google (chapter)",
+"subtitle": "Bem-vindo ao Grupo de Desenvolvedores Google Aracaju",
 "short" : "Uma breve descrição sobre seu GDG",
 "postLimit": 5,
-"calendarUrl": "http://www.google.com/calendar/embed?src=joselitojunior.com_als8e2ddcfk95stohs6kga3ti0%40group.calendar.google.com&ctz=America/Recife",
-"groupName": "gdg-?"
+"calendarUrl": "https://www.google.com/calendar/embed?src=gdgaracaju%40gmail.com&ctz=America/Recife",
+"groupName": "gdg-aracaju"
 }
